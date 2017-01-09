@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=MCT1 NewDesignator=MCT3
+Change Component Designator: OldDesignator=MCT2 NewDesignator=MCT1
+Added Pin To Net: NetName=RX Pin=R1-1
+Added Pin To Net: NetName=PSOM_TX Pin=R1-2
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component MCT3 Value

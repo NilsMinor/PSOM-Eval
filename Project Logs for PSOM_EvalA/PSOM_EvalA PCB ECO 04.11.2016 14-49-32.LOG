@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=VBUS Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=R?-1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Component: Designator=J1(BNC_Female)
+Added Component: Designator=J3(BNC_Female)
+Added Component: Designator=J4(BNC_Female)
+Added Pin To Net: NetName=VBUS Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=USB_P Pin=R2-1
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ6_4
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_2 Pin=R3-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=R2-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=P1-33
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=P1-34
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=P1-35
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=P1-36
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=P1-37
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=P1-38
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=P1-39
+Added Net: Name=NetJ6_3
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C2 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C3 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C4 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J1 Value
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J3 Value
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J4 Value
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J5 691244510004
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J6 4P_TERM_BLOCK_RA_HEADER
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R2 Thick Film

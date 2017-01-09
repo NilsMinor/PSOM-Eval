@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=MCT1 NewDesignator=MCT2
+Change Component Designator: OldDesignator=MCT2 NewDesignator=MCT3
+Change Component Designator: OldDesignator=MCT3 NewDesignator=MCT1

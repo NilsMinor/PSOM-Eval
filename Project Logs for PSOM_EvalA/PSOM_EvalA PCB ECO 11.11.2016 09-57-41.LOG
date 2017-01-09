@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5V Pin=R15-2
+Removed Pin From Net: NetName=+5V Pin=R16-2
+Removed Pin From Net: NetName=+3V3 Pin=R17-2
+Removed Pin From Net: NetName=+3V3 Pin=R18-2
+Removed Member From Class: ClassName=ArduinoUnoShield Member=T1
+Added Component: Designator=C9(CAPC1608X90N)
+Added Component: Designator=R23(RESC1005X40N)
+Added Component: Designator=R24(RESC1005X40N)
+Added Pin To Net: NetName=+3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=MISO Pin=J4-2
+Added Pin To Net: NetName=+3V3 Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=ADC1 Pin=P1-26
+Added Pin To Net: NetName=ADC2 Pin=P1-27
+Added Pin To Net: NetName=ADC3 Pin=P1-28
+Added Pin To Net: NetName=ADC4 Pin=P1-29
+Added Pin To Net: NetName=IO10 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=SCK Pin=R17-2
+Added Pin To Net: NetName=MOSI Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=SD_CS Pin=J4-8
+Added Pin To Net: NetName=SD_CS Pin=R15-1
+Added Pin To Net: NetName=SD_CS Pin=R16-1
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MOSI Pin=J4-7
+Added Pin To Net: NetName=SD_MOSI Pin=R18-1
+Added Pin To Net: NetName=SD_MOSI Pin=R24-1
+Added Net: Name=SD_MOSI
+Added Pin To Net: NetName=SD_SCK Pin=J4-5
+Added Pin To Net: NetName=SD_SCK Pin=R17-1
+Added Pin To Net: NetName=SD_SCK Pin=R23-1
+Added Net: Name=SD_SCK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C9 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component ICSP
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R23 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R24 Thick Film

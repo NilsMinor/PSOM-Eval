@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=DIO1_ISO Pin=J2-1
+Removed Pin From Net: NetName=DIO2_ISO Pin=J2-2
+Removed Pin From Net: NetName=DIO3_ISO Pin=J2-3
+Removed Pin From Net: NetName=+3V3_ISO Pin=J2-4
+Removed Pin From Net: NetName=DIO4_ISO Pin=J2-5
+Removed Pin From Net: NetName=DIO5_ISO Pin=J2-6
+Removed Pin From Net: NetName=DIO6_ISO Pin=J2-7
+Removed Pin From Net: NetName=ISO_GND Pin=J2-8
+Removed Member From Class: ClassName=ArduinoUnoShield Member=J2
+Added Component: Designator=J1(62400821622)
+Added Pin To Net: NetName=DIO1_ISO Pin=J1-1
+Added Pin To Net: NetName=DIO2_ISO Pin=J1-2
+Added Pin To Net: NetName=DIO3_ISO Pin=J1-3
+Added Pin To Net: NetName=+3V3_ISO Pin=J1-4
+Added Pin To Net: NetName=DIO4_ISO Pin=J1-5
+Added Pin To Net: NetName=DIO5_ISO Pin=J1-6
+Added Pin To Net: NetName=DIO6_ISO Pin=J1-7
+Added Pin To Net: NetName=ISO_GND Pin=J1-8
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J1 62400821622

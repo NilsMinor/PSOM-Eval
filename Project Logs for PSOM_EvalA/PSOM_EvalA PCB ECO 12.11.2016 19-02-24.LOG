@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Member From Class: ClassName=Arduino EvalBoard Member=R1
+Removed Member From Class: ClassName=Arduino EvalBoard Member=R2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J1 62400821622

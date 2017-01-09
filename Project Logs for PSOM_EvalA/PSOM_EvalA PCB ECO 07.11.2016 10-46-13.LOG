@@ -1,0 +1,15 @@
+Added Component: Designator=J2(FCI_10118193-0001LF)
+Added Pin To Net: NetName=VBUS Pin=J2-1
+Added Pin To Net: NetName=NetD1_2 Pin=J2-2
+Added Pin To Net: NetName=NetD1_3 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=J2-6
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J2 MicroUSB-B
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component MCT1 Value

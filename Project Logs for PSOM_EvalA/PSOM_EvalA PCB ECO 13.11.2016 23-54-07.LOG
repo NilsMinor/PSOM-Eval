@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PSOM_TX Pin=R1-1
+Added Pin To Net: NetName=RX Pin=R1-1

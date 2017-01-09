@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=RX Pin=T2-2
+Removed Pin From Net: NetName=+5V Pin=T4-1
+Removed Pin From Net: NetName=TX Pin=T4-2
+Added Component: Designator=SB1(Solderbridge_Shorted)
+Added Component: Designator=SB2(Solderbridge_Shorted)
+Added Component: Designator=SB3(Solderbridge)
+Added Component: Designator=SB4(Solderbridge)
+Added Pin To Net: NetName=RX Pin=SB1-2
+Added Pin To Net: NetName=TX Pin=SB2-2
+Added Pin To Net: NetName=PSOM_TX Pin=SB3-1
+Added Pin To Net: NetName=RX Pin=SB3-2
+Added Pin To Net: NetName=PSOM_RX Pin=SB4-1
+Added Pin To Net: NetName=TX Pin=SB4-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=T2-2
+Added Net: Name=NetSB1_1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_1 Pin=T4-2
+Added Net: Name=NetSB2_1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component SB1 Solderbridge
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component SB2 Solderbridge
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component SB3 Solderbridge
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component SB4 Solderbridge

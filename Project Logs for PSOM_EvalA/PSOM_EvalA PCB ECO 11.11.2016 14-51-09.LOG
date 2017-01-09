@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RX Pin=SB1-2
+Removed Pin From Net: NetName=TX Pin=SB2-2
+Removed Member From Class: ClassName=ArduinoUnoShield Member=SB3
+Removed Member From Class: ClassName=ArduinoUnoShield Member=SB4
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB1
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB2
+Added Pin To Net: NetName=RX Pin=T2-2
+Added Pin To Net: NetName=TX Pin=T4-2

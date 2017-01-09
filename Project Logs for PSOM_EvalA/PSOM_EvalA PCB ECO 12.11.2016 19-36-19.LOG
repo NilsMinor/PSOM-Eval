@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PSOM_TX Pin=SB1-1
+Removed Pin From Net: NetName=RX Pin=SB1-2
+Removed Member From Class: ClassName=Arduino EvalBoard Member=SB1
+Added Component: Designator=J2(JUMP1)
+Added Component: Designator=J6(JUMP1)
+Added Pin To Net: NetName=PSOM_TX Pin=J2-1
+Added Pin To Net: NetName=RX Pin=J2-2
+Added Pin To Net: NetName=PSOM_RX Pin=J6-1
+Added Pin To Net: NetName=TX Pin=J6-2
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J1 62400821622
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J2 Jumper
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J6 Jumper

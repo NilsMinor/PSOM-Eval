@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=J2 Old Footprint=620108131822 New Footprint=62400821722
+Change Component Footprint: Designator=J1 Old Footprint=620310124022 New Footprint=62401021622
+Change Component Comment : Designator=J2 Old Comment=620108131822 New Comment=62400821722
+Change Component Comment : Designator=J1 Old Comment=620310124022 New Comment=62401021622
+Added Pin To Net: NetName=PWM1 Pin=J1-1
+Added Pin To Net: NetName=ADC1 Pin=J1-2
+Added Pin To Net: NetName=ADC3 Pin=J1-3
+Added Pin To Net: NetName=+3V3 Pin=J1-4
+Added Pin To Net: NetName=PWM2 Pin=J1-6
+Added Pin To Net: NetName=ADC2 Pin=J1-7
+Added Pin To Net: NetName=ADC4 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=DIO1_ISO Pin=J2-1
+Added Pin To Net: NetName=DIO2_ISO Pin=J2-2
+Added Pin To Net: NetName=DIO3_ISO Pin=J2-3
+Added Pin To Net: NetName=+3V3_ISO Pin=J2-4
+Added Pin To Net: NetName=DIO4_ISO Pin=J2-5
+Added Pin To Net: NetName=DIO5_ISO Pin=J2-6
+Added Pin To Net: NetName=DIO6_ISO Pin=J2-7
+Added Pin To Net: NetName=ISO_GND Pin=J2-8

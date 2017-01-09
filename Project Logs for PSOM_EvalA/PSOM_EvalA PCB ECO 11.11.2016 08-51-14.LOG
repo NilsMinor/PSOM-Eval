@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Change Component Designator: OldDesignator=T? NewDesignator=T3
+Added Pin To Net: NetName=MISO Pin=ICSP-1
+Added Pin To Net: NetName=5V Pin=ICSP-2
+Added Pin To Net: NetName=SCK Pin=ICSP-3
+Added Pin To Net: NetName=MOSI Pin=ICSP-4
+Added Pin To Net: NetName=RESET Pin=ICSP-5
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Pin To Net: NetName=USB_P Pin=R12-1
+Added Pin To Net: NetName=NetD1_3 Pin=R12-2
+Added Pin To Net: NetName=USB_N Pin=R13-1
+Added Pin To Net: NetName=NetD1_2 Pin=R13-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Net: Name=NetR18_1
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component ICSP
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R12 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R13 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R16 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R17 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R18 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component T1 BSS138

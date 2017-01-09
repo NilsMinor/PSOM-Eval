@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Added Component: Designator=J?(691254510002)
+Added Component: Designator=J?(691254510002)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=J?-1
+Added Pin To Net: NetName=NetD?_2 Pin=J?-2
+Added Pin To Net: NetName=NetD?_3 Pin=J?-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? 691254510002
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? 691254510002
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? MicroUSB-B
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? 10k

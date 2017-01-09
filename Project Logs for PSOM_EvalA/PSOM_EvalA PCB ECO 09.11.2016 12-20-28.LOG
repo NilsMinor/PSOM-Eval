@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=+5V Pin=R15-2
+Removed Pin From Net: NetName=+5V Pin=R16-2
+Removed Pin From Net: NetName=+3V3 Pin=R17-2
+Removed Pin From Net: NetName=+3V3 Pin=R18-2
+Removed Member From Class: ClassName=ArduinoUnoShield Member=J4
+Removed Member From Class: ClassName=ArduinoUnoShield Member=R15
+Removed Member From Class: ClassName=ArduinoUnoShield Member=R16
+Removed Member From Class: ClassName=ArduinoUnoShield Member=R17
+Removed Member From Class: ClassName=ArduinoUnoShield Member=R18
+Removed Member From Class: ClassName=ArduinoUnoShield Member=T1
+Removed Member From Class: ClassName=ArduinoUnoShield Member=T3
+Added Component: Designator=ICSP(ICSP)
+Added Component: Designator=J?(693071010811)
+Added Component: Designator=R?(RESC1005X40N)
+Added Component: Designator=R?(RESC1005X40N)
+Added Component: Designator=R?(RESC1005X40N)
+Added Component: Designator=R?(RESC1005X40N)
+Added Component: Designator=T?(SOT-23)
+Added Component: Designator=T?(SOT-23)
+Added Pin To Net: NetName=RESET Pin=ICSP-5
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=ICSP-2
+Added Net: Name=5V
+Added Pin To Net: NetName=MISO Pin=ICSP-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=ICSP-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=SCK Pin=ICSP-3
+Added Net: Name=SCK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component ICSP
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? 693071010811
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component T? BSS138
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component T? BSS138

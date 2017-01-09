@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RX Pin=R1-1
+Added Component: Designator=J?(62400821622)
+Added Pin To Net: NetName=DIO4_ISO Pin=J?-1
+Added Pin To Net: NetName=DIO5_ISO Pin=J?-2
+Added Pin To Net: NetName=DIO6_ISO Pin=J?-3
+Added Pin To Net: NetName=ISO_GND Pin=J?-4
+Added Pin To Net: NetName=DIO1_ISO Pin=J?-5
+Added Pin To Net: NetName=DIO2_ISO Pin=J?-6
+Added Pin To Net: NetName=DIO3_ISO Pin=J?-7
+Added Pin To Net: NetName=+3V3_ISO Pin=J?-8
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J? 62400821622

@@ -1,0 +1,16 @@
+Added Component: Designator=JP1(SIP4)
+Added Component: Designator=JP2(SIP4)
+Added Pin To Net: NetName=+3V3 Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=+3V3 Pin=JP2-1
+Added Pin To Net: NetName=PSOM_TX Pin=JP2-2
+Added Pin To Net: NetName=PSOM_RX Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-4
+Added Pin To Net: NetName=CAN_RX Pin=JP1-3
+Added Pin To Net: NetName=CAN_RX Pin=P1-15
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TX Pin=JP1-2
+Added Pin To Net: NetName=CAN_TX Pin=P1-14
+Added Net: Name=CAN_TX
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component JP1 J1X4
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component JP2 J1X4

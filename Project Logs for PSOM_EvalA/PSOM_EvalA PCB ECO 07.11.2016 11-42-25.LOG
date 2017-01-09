@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=3V3_ARD Pin=POWER-5
+Removed Member From Class: ClassName=ArduinoUnoShield Member=LED1
+Added Component: Designator=D2(WL-SMCW_0603)
+Added Component: Designator=J4(693071010811)
+Added Component: Designator=R15_lvl_shift1(RESC1005X40N)
+Added Component: Designator=R15_lvl_shift2(RESC1005X40N)
+Added Component: Designator=R16_lvl_shift1(RESC1005X40N)
+Added Component: Designator=R16_lvl_shift2(RESC1005X40N)
+Added Component: Designator=R17_lvl_shift1(RESC1005X40N)
+Added Component: Designator=R17_lvl_shift2(RESC1005X40N)
+Added Component: Designator=R18_lvl_shift1(RESC1005X40N)
+Added Component: Designator=R18_lvl_shift2(RESC1005X40N)
+Added Component: Designator=T1_lvl_shift1(SOT-23)
+Added Component: Designator=T1_lvl_shift2(SOT-23)
+Added Component: Designator=T2_lvl_shift1(SOT-23)
+Added Component: Designator=T2_lvl_shift2(SOT-23)
+Added Component: Designator=TP2(TP_SMD_Ø1.0mm)
+Added Component: Designator=TP3(TP_SMD_Ø1.0mm)
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=+3V3 Pin=R15_lvl_shift1-2
+Added Pin To Net: NetName=+3V3 Pin=R16_lvl_shift1-2
+Change Net Name : Old Net Name=5V New Net Name=NetPOWER_4
+Added Pin To Net: NetName=+5V Pin=R17_lvl_shift1-2
+Added Pin To Net: NetName=+5V Pin=R18_lvl_shift1-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetPOWER_5 Pin=POWER-5
+Added Net: Name=NetPOWER_5
+Added Pin To Net: NetName=NetR15_lvl_shift2_1 Pin=R15_lvl_shift2-1
+Added Net: Name=NetR15_lvl_shift2_1
+Added Pin To Net: NetName=NetR15_lvl_shift2_2 Pin=R15_lvl_shift2-2
+Added Pin To Net: NetName=NetR15_lvl_shift2_2 Pin=R16_lvl_shift2-2
+Added Net: Name=NetR15_lvl_shift2_2
+Added Pin To Net: NetName=NetR16_lvl_shift2_1 Pin=R16_lvl_shift2-1
+Added Net: Name=NetR16_lvl_shift2_1
+Added Pin To Net: NetName=NetR17_lvl_shift2_1 Pin=R17_lvl_shift2-1
+Added Net: Name=NetR17_lvl_shift2_1
+Added Pin To Net: NetName=NetR17_lvl_shift2_2 Pin=R17_lvl_shift2-2
+Added Pin To Net: NetName=NetR17_lvl_shift2_2 Pin=R18_lvl_shift2-2
+Added Net: Name=NetR17_lvl_shift2_2
+Added Pin To Net: NetName=NetR18_lvl_shift2_1 Pin=R18_lvl_shift2-1
+Added Net: Name=NetR18_lvl_shift2_1
+Added Pin To Net: NetName=PSOM_RX Pin=P1-11
+Added Pin To Net: NetName=PSOM_RX Pin=R18_lvl_shift1-1
+Added Pin To Net: NetName=PSOM_RX Pin=TP3-1
+Added Net: Name=PSOM_RX
+Added Pin To Net: NetName=PSOM_TX Pin=P1-10
+Added Pin To Net: NetName=PSOM_TX Pin=R17_lvl_shift1-1
+Added Pin To Net: NetName=PSOM_TX Pin=TP2-1
+Added Net: Name=PSOM_TX
+Added Pin To Net: NetName=RX Pin=R16_lvl_shift1-1
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=R15_lvl_shift1-1
+Added Net: Name=TX
+Added Class: Name=lvl_shift1
+Added Class: Name=lvl_shift2
+Added Class: Name=lvl_shift
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component D2 150060RS75000
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J4 693071010811
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component TP2 Ø1.0mm,SMD
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component TP3 Ø1.0mm,SMD

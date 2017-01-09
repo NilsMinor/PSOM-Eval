@@ -1,0 +1,6 @@
+Added Component: Designator=D1(SOT190P230X110-4L)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=VBUS Pin=D1-4
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component D1 PRTR5V0U2X

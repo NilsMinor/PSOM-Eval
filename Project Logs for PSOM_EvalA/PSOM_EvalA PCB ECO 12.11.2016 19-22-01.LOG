@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=3V3_ARD Pin=POWER-5
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J1 62400821622

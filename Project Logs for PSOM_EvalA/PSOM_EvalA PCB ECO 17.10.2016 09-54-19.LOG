@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=VBUS Pin=J?-1
+Removed Pin From Net: NetName=NetD?_2 Pin=J?-2
+Removed Pin From Net: NetName=NetD?_3 Pin=J?-3
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=R?-2
+Added Component: Designator=J?(61200821621)
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=J?-1
+Added Pin To Net: NetName=NetD?_2 Pin=J?-2
+Added Pin To Net: NetName=NetD?_3 Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=NetC?_2 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=USB_N Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=+3V3_ISO Pin=P?-5
+Added Net: Name=+3V3_ISO
+Added Pin To Net: NetName=DIO1_ISO Pin=P?-32
+Added Net: Name=DIO1_ISO
+Added Pin To Net: NetName=DIO2_ISO Pin=P?-31
+Added Net: Name=DIO2_ISO
+Added Pin To Net: NetName=DIO3_ISO Pin=P?-30
+Added Net: Name=DIO3_ISO
+Added Pin To Net: NetName=DIO4_ISO Pin=P?-3
+Added Net: Name=DIO4_ISO
+Added Pin To Net: NetName=DIO5_ISO Pin=P?-2
+Added Net: Name=DIO5_ISO
+Added Pin To Net: NetName=DIO6_ISO Pin=P?-1
+Added Net: Name=DIO6_ISO
+Added Pin To Net: NetName=ISO_GND Pin=P?-4
+Added Net: Name=ISO_GND
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? 61200821621
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? 691244510004
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J? MicroUSB-B
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R? 10k

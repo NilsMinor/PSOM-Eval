@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3V3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Member From Class: ClassName=ArduinoUnoShield Member=C9
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J1 62400821622

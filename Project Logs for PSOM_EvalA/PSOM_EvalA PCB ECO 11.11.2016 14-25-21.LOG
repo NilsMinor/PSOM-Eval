@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetLED5_2 Pin=R8-1
+Removed Pin From Net: NetName=+3V3 Pin=R8-2
+Change Component Footprint: Designator=R8 Old Footprint=RESC1608X55N New Footprint=RESC1005X40N
+Added Pin To Net: NetName=+3V3 Pin=R8-1
+Added Pin To Net: NetName=NetLED5_2 Pin=R8-2

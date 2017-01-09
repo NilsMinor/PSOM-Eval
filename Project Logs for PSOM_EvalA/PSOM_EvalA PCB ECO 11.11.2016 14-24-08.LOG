@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55N New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55N New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R9 Old Footprint=RESC1608X55N New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R10 Old Footprint=RESC1608X55N New Footprint=RESC1005X40N
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component LED8 L0603G

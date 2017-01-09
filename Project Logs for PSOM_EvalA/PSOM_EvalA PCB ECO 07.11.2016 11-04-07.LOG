@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=VBUS Pin=J2-1
+Removed Pin From Net: NetName=NetD1_2 Pin=J2-2
+Removed Pin From Net: NetName=NetD1_3 Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=NetC1_2 Pin=J2-6
+Removed Pin From Net: NetName=NetC1_2 Pin=J2-6
+Removed Pin From Net: NetName=NetC1_2 Pin=J2-6
+Removed Pin From Net: NetName=NetC1_2 Pin=J2-6
+Removed Pin From Net: NetName=NetC1_2 Pin=J2-6
+Removed Pin From Net: NetName=NetC1_2 Pin=J2-6
+Removed Pin From Net: NetName=DIO1_ISO Pin=J7-1
+Removed Pin From Net: NetName=DIO4_ISO Pin=J7-2
+Removed Pin From Net: NetName=DIO2_ISO Pin=J7-3
+Removed Pin From Net: NetName=DIO5_ISO Pin=J7-4
+Removed Pin From Net: NetName=DIO3_ISO Pin=J7-5
+Removed Pin From Net: NetName=DIO6_ISO Pin=J7-6
+Removed Pin From Net: NetName=+3V3_ISO Pin=J7-7
+Removed Pin From Net: NetName=ISO_GND Pin=J7-8
+Removed Pin From Net: NetName=ISO_GND Pin=LED1-1
+Removed Pin From Net: NetName=DIO1_ISO Pin=R3-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R3-2
+Removed Pin From Net: NetName=DIO2_ISO Pin=R4-1
+Removed Pin From Net: NetName=DIO3_ISO Pin=R5-1
+Removed Member From Class: ClassName=ArduinoUnoShield Member=J7
+Change Component Footprint: Designator=J2 Old Footprint=FCI_10118193-0001LF New Footprint=61200821621
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X55N New Footprint=RESC1005X40N
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=Thick Film
+Change Component Comment : Designator=J2 Old Comment=MicroUSB-B New Comment=61200821621
+Added Component: Designator=C1(CAPC1608X90N)
+Added Component: Designator=C6(CAPC1608X90N)
+Added Component: Designator=C7(CAPC1608X90N)
+Added Component: Designator=C8(CAPC1608X90N)
+Added Component: Designator=J3(FCI_10118193-0001LF)
+Added Component: Designator=LED9(LED_0603_G)
+Added Component: Designator=R1(RESC1005X40N)
+Added Component: Designator=R11(RESC1608X55N)
+Added Component: Designator=R14(RESC1005X40N)
+Added Component: Designator=SW3(JS202011SCQN)
+Added Component: Designator=U1(SOT-23A)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VBUS Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=DIO1_ISO Pin=J2-1
+Added Pin To Net: NetName=DIO4_ISO Pin=J2-2
+Added Pin To Net: NetName=DIO2_ISO Pin=J2-3
+Added Pin To Net: NetName=DIO5_ISO Pin=J2-4
+Added Pin To Net: NetName=DIO3_ISO Pin=J2-5
+Added Pin To Net: NetName=DIO6_ISO Pin=J2-6
+Added Pin To Net: NetName=+3V3_ISO Pin=J2-7
+Added Pin To Net: NetName=ISO_GND Pin=J2-8
+Added Pin To Net: NetName=VBUS Pin=J3-1
+Added Pin To Net: NetName=NetD1_2 Pin=J3-2
+Added Pin To Net: NetName=NetD1_3 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=NetC1_2 Pin=J3-6
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=ISO_GND Pin=LED9-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R3-1
+Added Pin To Net: NetName=DIO1_ISO Pin=R4-1
+Added Pin To Net: NetName=DIO2_ISO Pin=R5-1
+Added Pin To Net: NetName=DIO3_ISO Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetC1_2 Pin=R14-2
+Added Pin To Net: NetName=+3V3 Pin=SW3-2
+Added Pin To Net: NetName=+3V3 Pin=SW3-5
+Added Pin To Net: NetName=VBUS Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=3V3_ARD Pin=POWER-5
+Added Pin To Net: NetName=3V3_ARD Pin=SW3-3
+Added Pin To Net: NetName=3V3_ARD Pin=SW3-6
+Added Net: Name=3V3_ARD
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R11-2
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=USB_3V3 Pin=C6-2
+Added Pin To Net: NetName=USB_3V3 Pin=C7-1
+Added Pin To Net: NetName=USB_3V3 Pin=R3-2
+Added Pin To Net: NetName=USB_3V3 Pin=SW3-1
+Added Pin To Net: NetName=USB_3V3 Pin=SW3-4
+Added Pin To Net: NetName=USB_3V3 Pin=U1-2
+Added Net: Name=USB_3V3
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C1 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C6 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C7 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C8 approved sub OK
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component J3 MicroUSB-B
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component LED9 L0603G
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R1 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R11 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component R14 Thick Film
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component SW3 Switch
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component U1 AP7333-33SAG-7

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RESET Pin=POWER-6
+Added Pin To Net: NetName=VBUS Pin=POWER-1
+Change Net Name : Old Net Name=VBUS New Net Name=VIN
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J1 62400821622

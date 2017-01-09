@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=ArduinoUnoShield New Net Name=Arduino EvalBoard
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component J1 62400821622
+Added Room: Name=Arduino EvalBoard

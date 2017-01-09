@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=ICSP-2
+Removed Pin From Net: NetName=RESET Pin=ICSP-5
+Removed Pin From Net: NetName=GND Pin=ICSP-6
+Removed Member From Class: ClassName=ArduinoUnoShield Member=ICSP

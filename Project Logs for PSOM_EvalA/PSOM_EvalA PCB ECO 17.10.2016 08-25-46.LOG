@@ -1,0 +1,70 @@
+Added Pin To Net: NetName=3V3 Pin=POWER-5
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=ICSP-2
+Added Pin To Net: NetName=5V Pin=POWER-4
+Added Net: Name=5V
+Added Pin To Net: NetName=AD0 Pin=AD-1
+Added Net: Name=AD0
+Added Pin To Net: NetName=AD1 Pin=AD-2
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD2 Pin=AD-3
+Added Net: Name=AD2
+Added Pin To Net: NetName=AD3 Pin=AD-4
+Added Net: Name=AD3
+Added Pin To Net: NetName=AD4 Pin=AD-5
+Added Net: Name=AD4
+Added Pin To Net: NetName=AD5 Pin=AD-6
+Added Net: Name=AD5
+Added Pin To Net: NetName=AREF Pin=IOH-8
+Added Net: Name=AREF
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Pin To Net: NetName=GND Pin=IOH-7
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Net: Name=GND
+Added Pin To Net: NetName=IO0 Pin=IOL-1
+Added Net: Name=IO0
+Added Pin To Net: NetName=IO1 Pin=IOL-2
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=IOL-3
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=IOL-4
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=IOL-5
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=IOL-6
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=IOL-7
+Added Net: Name=IO6
+Added Pin To Net: NetName=IO7 Pin=IOL-8
+Added Net: Name=IO7
+Added Pin To Net: NetName=IO8 Pin=IOH-1
+Added Net: Name=IO8
+Added Pin To Net: NetName=IO9 Pin=IOH-2
+Added Net: Name=IO9
+Added Pin To Net: NetName=IO10 Pin=IOH-3
+Added Net: Name=IO10
+Added Pin To Net: NetName=IO11 Pin=IOH-4
+Added Net: Name=IO11
+Added Pin To Net: NetName=IO12 Pin=IOH-5
+Added Net: Name=IO12
+Added Pin To Net: NetName=IO13 Pin=IOH-6
+Added Net: Name=IO13
+Added Pin To Net: NetName=IOREF Pin=POWER-7
+Added Net: Name=IOREF
+Added Pin To Net: NetName=MISO Pin=ICSP-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=ICSP-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RESET Pin=ICSP-5
+Added Pin To Net: NetName=RESET Pin=POWER-6
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=ICSP-3
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=IOH-10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IOH-9
+Added Net: Name=SDA
+Added Pin To Net: NetName=VIN Pin=POWER-1
+Added Net: Name=VIN
+Added Class: Name=ArduinoUnoShield

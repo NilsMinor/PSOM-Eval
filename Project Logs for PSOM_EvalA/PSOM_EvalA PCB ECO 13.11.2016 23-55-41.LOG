@@ -1,0 +1,4 @@
+Added Component: Designator=R1(RESC1608N_ZERO)
+Added Pin To Net: NetName=RX Pin=R1-1
+Added Pin To Net: NetName=PSOM_TX Pin=R1-2
+Added Member To Class: ClassName=Arduino EvalBoard Member=Component R1 Thick Film

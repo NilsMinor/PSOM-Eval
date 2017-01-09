@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=EVT4 Pin=IOL-5
+Removed Pin From Net: NetName=EVT3 Pin=IOL-6
+Removed Pin From Net: NetName=EVT2 Pin=IOL-7
+Removed Pin From Net: NetName=EVT1 Pin=IOL-8
+Added Pin To Net: NetName=EVT1 Pin=IOL-5
+Added Pin To Net: NetName=EVT2 Pin=IOL-6
+Added Pin To Net: NetName=EVT3 Pin=IOL-7
+Added Pin To Net: NetName=EVT4 Pin=IOL-8

@@ -1,8 +1,7 @@
 # PSOM Eval Board
+### Click on the image below to see the gerber-files
 
-
-
-![Alt text](Doc/3d.png?raw=true "PCB in 3D view")
+[![Gerber files](Doc/preview?raw=true)](https://stackrate.de/viewer?stackId=7vzVYVZ2)
 
 
 kindly
